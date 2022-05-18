@@ -6,7 +6,7 @@ import (
 
 	"github.com/mitchellh/mapstructure"
 
-	"github.com/free5gc/openapi/models"
+	"github.com/omec-project/openapi/models"
 )
 
 // Decode - Only support []map[string]interface to []models.NfProfile
