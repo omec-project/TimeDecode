@@ -6,5 +6,5 @@ replace github.com/omec-project/TimeDecode => ./
 
 require (
 	github.com/mitchellh/mapstructure v1.4.1
-	github.com/omec-project/openapi v1.0.100-dev
+	github.com/omec-project/openapi v1.1.0
 )
